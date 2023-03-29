@@ -1,8 +1,9 @@
-first line
+first line -push check
+
 <<<<<<< HEAD
 second line  
 third line
-||||||| 5703c5a
+
 second line  
 =======
 
